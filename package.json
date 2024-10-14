@@ -1,0 +1,29 @@
+{
+  "name": "laradocs-vscode",
+  "displayName": "LaraDocs Theme",
+  "description": "LaraDocs Theme brings the clean and minimal style of Laravel’s documentation to VS Code. Designed for readability and focus, it offers a crisp, balanced color scheme for a modern coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "LaraDocs",
+    "Dark Theme",
+    "Laravel Docs",
+    "laradocs-vscode",
+    "Laravel documentation"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LaraDocs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/laradocs-vscode-theme.json"
+      }
+    ]
+  }
+}
