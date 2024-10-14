@@ -17,6 +17,10 @@
     "laradocs-vscode",
     "Laravel documentation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goudmane/LaraDocs"
+  },
   "contributes": {
     "themes": [
       {

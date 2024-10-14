@@ -1,6 +1,6 @@
 # LaraDocs Theme
 
-![LaraDocs Logo](path/to/logo.png) <!-- Replace with your logo path if you have one -->
+![LaraDocs Logo](https://raw.githubusercontent.com/goudmane/LaraDocs/blob/master/images/logo.png)
 
 LaraDocs Theme brings the clean and minimal style of Laravel’s documentation to Visual Studio Code. Designed for readability and focus, it offers a crisp, balanced color scheme for a modern coding experience.
 
