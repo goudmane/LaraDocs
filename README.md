@@ -1,8 +1,26 @@
-# LaraDocs Theme
+<p align="center">
+  <img alt="LaraDocs Logo" src="https://raw.githubusercontent.com/goudmane/LaraDocs/refs/heads/master/images/logo.png" width="200" />
+</p>
+<h1 align="center">
+  LaraDocs Theme 
+</h1>
+<p align="center">
+  LaraDocs Theme brings a vibrant and energetic coding experience style of Laravel’s documentation to Visual Studio Code. Designed for productivity and a touch of fun, it offers a high-contrast color scheme with customizable syntax highlighting
+</p>
 
-![LaraDocs Logo](https://raw.githubusercontent.com/goudmane/LaraDocs/refs/heads/master/images/logo.png)
+<!-- <p align="center">
+  <a href="">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/Barkerbg001.rubysea-vscode?color=brightgreen" />
+  </a>
+  <a href="">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/Barkerbg001.rubysea-vscode" />
+  </a>
+  <a href="">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/Barkerbg001.rubysea-vscode" />
+  </a>
+</p> -->
 
-LaraDocs Theme brings the clean and minimal style of Laravel’s documentation to Visual Studio Code. Designed for readability and focus, it offers a crisp, balanced color scheme for a modern coding experience.
+![LaraDocs Screenshot](https://raw.githubusercontent.com/goudmane/LaraDocs/refs/heads/master/images/screen.png) 
 
 ## Features
 
@@ -44,4 +62,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+**Enjoy   
+ your coding experience with MyAwesomeTheme!**
